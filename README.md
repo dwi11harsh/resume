@@ -1,4 +1,4 @@
-# Modern LaTeX Resume Template
+# LaTeX Resume Template
 
 A clean, professional, and highly customizable LaTeX resume template designed for developers and technical professionals. Features responsive layouts, hyperlink integration, and performance metrics emphasis.
 
